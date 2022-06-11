@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit_memory"
+        android:title="Anıyı Düzenle" />
+
+    <item
+        android:id="@+id/delete_memory"
+        android:title="Anıyı sil" />
+
+    <item
+        android:id="@+id/pwd_memory"
+        android:title="Şifre ekle" />
+
+</menu>
